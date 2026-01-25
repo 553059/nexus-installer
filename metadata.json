@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Nexus System AI",
+  "description": "A futuristic AI assistant with integrated system-level controls using Gemini Live API. Control device features like vibration, location, and sensors through a voice-first interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
